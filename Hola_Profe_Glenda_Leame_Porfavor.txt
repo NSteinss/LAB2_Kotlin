@@ -1,0 +1,162 @@
+Hola buenas noches profe, Estoy utilizando Visual Studio Code, y solo editando los códigos fuentes de cada archivo
+con extensión .kt, Android studio e IntelliJ se me hacen muy pesados, he incómodos a mi gusto, así que compilo 
+directamente desde el compilador de Kotlin "Kotlinc(Kotlin command-line compiler)" usando la terminal 
+' https://kotlinlang.org/docs/command-line.html '
+supongo que usted sabe muy bien como usarlo por si acaso no sabe le dejo el script para cada código
+y solo copie y pegue en PowerShell.
+
+####################################################################################################################
+
+Ejercicio #1:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero1.kt -include-runtime -d numero1.jar && java -jar numero1.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero1.kt -include-runtime -d numero1.jar ; java -jar numero1.jar
+
+Ejercicio #2:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero2.kt -include-runtime -d numero2.jar && java -jar numero1.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero2.kt -include-runtime -d numero2.jar ; java -jar numero2.jar
+
+Ejercicio #3:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero3.kt -include-runtime -d numero3.jar && java -jar numero3.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero3.kt -include-runtime -d numero3.jar ; java -jar numero3.jar
+
+Ejercicio #4:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero4.kt -include-runtime -d numero4.jar && java -jar numero4.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero4.kt -include-runtime -d numero4.jar ; java -jar numero4.jar
+
+Ejercicio #5:   
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero5.kt -include-runtime -d numero5.jar && java -jar numero5.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero5.kt -include-runtime -d numero5.jar ; java -jar numero5.jar
+
+Ejercicio #6:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero6.kt -include-runtime -d numero6.jar && java -jar numero6.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero6.kt -include-runtime -d numero6.jar ; java -jar numero6.jar
+
+Ejercicio #7:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero7.kt -include-runtime -d numero7.jar && java -jar numero7.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero7.kt -include-runtime -d numero7.jar ; java -jar numero7.jar
+
+Ejercicio #8:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero8.kt -include-runtime -d numero8.jar && java -jar numero8.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero8.kt -include-runtime -d numero8.jar ; java -jar numero8.jar
+
+Ejercicio #9:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero9.kt -include-runtime -d numero9.jar && java -jar numero9.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero9.kt -include-runtime -d numero9.jar ; java -jar numero9.jar
+
+Ejercicio #10:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero10.kt -include-runtime -d numero10.jar && java -jar numero10.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero10.kt -include-runtime -d numero10.jar ; java -jar numero10.jar
+
+Ejercicio #11:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero11.kt -include-runtime -d numero11.jar && java -jar numero11.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero11.kt -include-runtime -d numero11.jar ; java -jar numero11.jar
+
+Ejercicio #12:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero12.kt -include-runtime -d numero12.jar && java -jar numero12.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero12.kt -include-runtime -d numero12.jar ; java -jar numero12.jar
+
+Ejercicio #13:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero13.kt -include-runtime -d numero13.jar && java -jar numero13.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero13.kt -include-runtime -d numero13.jar ; java -jar numero13.jar
+
+Ejercicio #14:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero14.kt -include-runtime -d numero14.jar && java -jar numero14.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero14.kt -include-runtime -d numero14.jar ; java -jar numero14.jar
+
+Ejercicio #15:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero15.kt -include-runtime -d numero15.jar && java -jar numero15.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero15.kt -include-runtime -d numero15.jar ; java -jar numero15.jar
+
+Ejercicio #16:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero16.kt -include-runtime -d numero16.jar && java -jar numero16.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero16.kt -include-runtime -d numero16.jar ; java -jar numero16.jar
+
+Ejercicio #17:  
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero17.kt -include-runtime -d numero17.jar && java -jar numero17.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero17.kt -include-runtime -d numero17.jar ; java -jar numero17.jar
+
+Ejercicio #18:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero18.kt -include-runtime -d numero18.jar && java -jar numero18.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero18.kt -include-runtime -d numero18.jar ; java -jar numero18.jar
+
+Ejercicio #19:  
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero19.kt -include-runtime -d numero19.jar && java -jar numero19.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero19.kt -include-runtime -d numero19.jar ; java -jar numero19.jar
+
+Ejercicio #20:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero20.kt -include-runtime -d numero20.jar && java -jar numero20.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero20.kt -include-runtime -d numero20.jar ; java -jar numero20.jar
+
+Ejercicio #21:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero21.kt -include-runtime -d numero21.jar && java -jar numero21.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero21.kt -include-runtime -d numero21.jar ; java -jar numero21.jar
+
+Ejercicio #22:
+    - Linux Bash: 
+    cd "/home/NSteins/Desktop/.Development/kotlin2/" && kotlinc numero22.kt -include-runtime -d numero22.jar && java -jar numero22.jar
+    
+    -Windows PowerShell
+    cd \Users\Usuario\Downloads\kotlin2 ; kotlinc numero22.kt -include-runtime -d numero22.jar ; java -jar numero22.jar
