@@ -8,15 +8,9 @@ Carnet:2021-0096U
 Lab_Kotlin#2 de programacion grafica
 Docente: GLENDA DEL SOCORRO BARRIOS AGUIRRE*/
 
-fun main()
-{
-    println("El salario semanal de un colaborador se medira en dolares")
-    println("Ingrese las horas trabajadas: ")
-    val horas = readLine()!!.toInt()
-    println("El salario semanal del colaborador es: ${salarioSemanal(horas)} dolares")
+fun main() {
+    val horasTrabajadas = 50
+    val salario = horasTrabajadas * 12.0
+    println("El salario semanal del colaborador es de \$$salario")
 }
-fun salarioSemanal(horas: Int): Int
-{
-    val salario = 12
-    return (horas * salario)
-}
+
